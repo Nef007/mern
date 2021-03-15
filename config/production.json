@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Dkfl",
+  "mongoUri": "mongodb+srv://nef007:1234@cluster0.7jfai.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
